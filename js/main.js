@@ -1,11 +1,11 @@
 function getElm(id){
     return document.getElementById(id);
 }
-var dsnv = new danhSachNhanVien();
+var dsnv = new DanhSachNhanVien();
 var validator = new Validator();
 
-// in danh sach nhan vien
-function inDsnv(arr){
+// hiển thị danh sach nhan vien
+function hienThiDanhSachNV(arr){
 
     var content = '';
     arr.map( (nv,index) => {
@@ -32,7 +32,7 @@ function inDsnv(arr){
 // sau khi xoa can hien thi lai danh sach nhan vien
 function xoaNhanVien(taiKhoanNV){
     dsnv.xoaNV(taiKhoanNV);
-    inDsnv(dsnv.arr);
+    hienThiDanhSachNV(dsnv.arr);
     setLocal(dsnv.arr);
 }
 // set localStorage
@@ -43,7 +43,7 @@ function setLocal(arr){
 function getLocal(){
     if(localStorage.getItem('DSNV')){
         dsnv.arr = JSON.parse(localStorage.getItem('DSNV'));
-        inDsnv(dsnv.arr);
+        hienThiDanhSachNV(dsnv.arr);
     }
 }
 getLocal();
@@ -90,7 +90,7 @@ btnThemNV.addEventListener('click',() =>{
 
     var nhanVien = new NhanVien(taiKhoanNV,tenNV,emailNV,ngayLam,luongCoBan,chucVu,gioLam,passWord);
     dsnv.themNhanVien(nhanVien);
-    inDsnv(dsnv.arr);
+    hienThiDanhSachNV(dsnv.arr);
     setLocal(dsnv.arr);
 
 })
@@ -158,7 +158,7 @@ function updateNV(taiKhoanNV) {
             }
             var updateNV = new NhanVien(taiKhoanNV,tenNV,emailNV,ngayLam,luongCoBan,chucVu,gioLam,passWord);
             dsnv.arr[x] =updateNV;
-            inDsnv(dsnv.arr);
+            hienThiDanhSachNV(dsnv.arr);
             setLocal(dsnv.arr);
         }        
     )
@@ -176,7 +176,7 @@ function updateNV(taiKhoanNV) {
         }
         // console.log(newArr);
         dsnv.arr = newArr;
-        inDsnv(dsnv.arr);
+        hienThiDanhSachNV(dsnv.arr);
     
  })
 

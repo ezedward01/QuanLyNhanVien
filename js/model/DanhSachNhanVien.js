@@ -1,11 +1,11 @@
-function danhSachNhanVien(){
+function DanhSachNhanVien(){
     this.arr = [];
     this.themNhanVien = function(nhanVien){
         this.arr.push(nhanVien);
     }
 }
 
-danhSachNhanVien.prototype.timViTri = function(taiKhoanNV) {
+DanhSachNhanVien.prototype.timViTri = function(taiKhoanNV) {
     
     return this.arr.findIndex( function(item){
      
@@ -13,7 +13,7 @@ danhSachNhanVien.prototype.timViTri = function(taiKhoanNV) {
     })
 }
 // xoa 1 phan tu ra khoi mang
-danhSachNhanVien.prototype.xoaNV = function(taiKhoanNV) {
+DanhSachNhanVien.prototype.xoaNV = function(taiKhoanNV) {
     
     var viTri = this.timViTri(taiKhoanNV);
     if(viTri !== -1){
