@@ -40,5 +40,8 @@ function NhanVien(_taiKhoanNV,_hoTen,_email,_ngayLam,_luongCoBan,_chucVu,_gioLam
     this.xepLoai = this.xepLoaiNV();
 
 }
+Ango
+budget, adult, colour, embrace, forget, gospel, yellow, defy, elder, unveil, inflict, control, antique, pull, height, situate, cram, behind,
+inch, ask, dune, despair, cell, able, sight.   (c) (s)
 
 
