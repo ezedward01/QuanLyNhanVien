@@ -44,4 +44,5 @@ Algo
 budget, adult, colour, embrace, forget, gospel, yellow, defy, elder, unveil, inflict, control, antique, pull, height, situate, cram, behind,
 inch, ask, dune, despair, cell, able, sight.   (c) (s)
 
-
+ICP_stoic
+direct husband manifest monkey monkey quiz ability isolate reward pony trigger inhale (u) (t)
