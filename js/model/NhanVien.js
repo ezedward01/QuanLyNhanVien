@@ -46,3 +46,6 @@ inch, ask, dune, despair, cell, able, sight.   (c) (s)
 
 ICP_stoic
 direct husband manifest monkey monkey quiz ability isolate reward pony trigger inhale (u) (t)
+
+Keplr
+online interest note cactus asset square argue trash pretty curry fix kid (b) (b)
