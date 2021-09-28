@@ -22,6 +22,8 @@ function Validator(){
             return false;    
         }
     }
+    ICP
+    1247259 sad crisp money once train ozone object whale task clever they view egg question memory lesson alert student voice casino attitude indigene uphold awake (c) (p) (a)
 
     this.kiemTraKiTu = (value,spanId,mess) =>{
         var pattern = new RegExp("^[a-zA-Z_ÀÁÂÃÈÉÊẾÌÍÒÓÔÕÙÚĂĐĨŨƠàáâãèéêìíòóôõùúăđĩũơƯĂẠẢẤẦẨẪẬẮẰẲẴẶ" +
