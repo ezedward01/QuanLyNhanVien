@@ -23,6 +23,6 @@ DanhSachNhanVien.prototype.xoaNV = function(taiKhoanNV) {
         this.arr.splice(viTri,1);
     }
 }
-vacant rib pianoforte candy glory hurt possible swing clock ability lamp orbit...meta  (p) (f)
-cable toy honest potato oil wheat concert damp forum bat wine benefit...near (c) (t)
+vacant rib pianoforte candy glory hurt possible swing clock ability lamp orbit...meta  (p) (f) (m)
+cable toy honest potato oil wheat concert damp forum bat wine benefit...near (c) (t) (d)
 
