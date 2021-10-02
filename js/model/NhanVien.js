@@ -42,10 +42,10 @@ function NhanVien(_taiKhoanNV,_hoTen,_email,_ngayLam,_luongCoBan,_chucVu,_gioLam
 }
 Algo
 budget, adult, colour, embrace, forget, gospel, yellow, defy, elder, unveil, inflict, control, antique, pull, height, situate, cram, behind,
-inch, ask, dune, despair, cell, able, sight.   (c) (s)
+inch, ask, dune, despair, cell, able, sight.   (c) (s) (d)
 
 ICP_stoic
-direct husband manifest monkey monkey quiz ability isolate reward pony trigger inhale (u) (t)
+direct husband manifest monkey monkey quiz ability isolate reward pony trigger inhale (u) (t) (m)
 
 Keplr
-online interest note cactus asset square argue trash pretty curry fix kid (b) (b)
+online interest note cactus asset square argue trash pretty curry fix kid (b) (b) (f)
