@@ -10,6 +10,13 @@ function Validator(){
             return true;
         }
     } 
+    Solareum
+    Ví sol 01
+    evolve cram springtime primary universe merit coast include elder verify lady physical morning bicycle vote theme autumn vehicle 
+    key wedding body terrain alley album (s) (c) (d)
+    Ví sol 02
+    mountain fatal rise shaft ill sudden garage wait couch under across rocket ritual tray unique onion cost dial donkey face 
+    hurry lick cluster term (i) (s) (m)
 
     this.kiemTraDoDai = function(value,spanId,mess) {
         if(value.length >=4 && value.length <= 6){
