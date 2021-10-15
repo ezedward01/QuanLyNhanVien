@@ -41,8 +41,13 @@ function NhanVien(_taiKhoanNV,_hoTen,_email,_ngayLam,_luongCoBan,_chucVu,_gioLam
 
 }
 Algo
+Algo_01
 budget, adult, colour, embrace, forget, gospel, yellow, defy, elder, unveil, inflict, control, antique, pull, height, situate, cram, behind,
 inch, ask, dune, despair, cell, able, sight.   (c) (s) (d)
+
+Algo_02
+until, usual, villages, catch, cancel, like, wide, world, sister, timber, loyal, fall, castle, oxygen, chalk, pole, hover, inquiry, 
+online, gospel, scene, cram, marriage, abstract, outer (v) (w) (m)
 
 ICP_stoic
 direct husband manifest monkey monkey quiz ability isolate reward pony trigger inhale (u) (t) (m)
