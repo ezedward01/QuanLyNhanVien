@@ -3,12 +3,14 @@ function Validator(){
         if(!value){
             getElm(spanId).style.display = 'block';
             getElm(spanId).innerHTML =mess;
-            return false;
+            return false
         } else{
             getElm(spanId).style.display = 'none';
             getElm(spanId).innerHTML ='';
             return true;
         }
+        nearian_trung02.near
+        elephant bicycle soldier south inherit type loan fly recipe yards cover casino (a) (y) (b)
     } 
     Solareum
     Ví sol 01
