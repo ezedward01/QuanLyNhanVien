@@ -58,3 +58,13 @@ online interest note cactus asset square argue trash pretty curry fix kid (b) (b
 
 cosmos_02
 still crush stumber draft finger rely exist diagram vacant orbital lend present (q) (o) (a)
+
+Dot
+dot 01
+swap meadow exchange decrease matter shy divert stable toe hundreds husband indoor  (c)  (h)  (i)
+
+dot 02
+wife total speechify trick vote husband yard what mixture youngful post hen  (d)  (y)  (y)
+
+dot 03
+office ethics more south drill motor rival ice impose main remind timber  (r)  (o)  (j)
