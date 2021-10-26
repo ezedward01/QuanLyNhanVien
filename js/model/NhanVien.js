@@ -49,6 +49,10 @@ Algo_02
 until, usual, villages, catch, cancel, like, wide, world, sister, timber, loyal, fall, castle, oxygen, chalk, pole, hover, inquiry, 
 online, gospel, scene, cram, marriage, abstract, outer (v) (w) (m)
 
+TestnetAlgo 01
+oyster, inner, warranter, clutch, text, define, clinic, movie, repeat, virtual, then, rude, nasty, already, table, twelve, 
+second, clutch, flock, differ, eternal, offer, personal, ability, duck  (s) (p) (p)
+
 ICP_stoic
 direct husband manifest monkey monkey quiz ability isolate reward pony trigger inhale (u) (t) (m)
 
