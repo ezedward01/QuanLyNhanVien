@@ -9,6 +9,8 @@ function Validator(){
             getElm(spanId).innerHTML ='';
             return true;
         }
+        trung 01.near
+        sail parent aroma hen awful express guilt run pool dwarfish inherit beauty (f) (d) (m) 
         nearian_trung02.near
         elephant bicycle soldier south inherit type loan fly recipe yards cover casino (a) (y) (b)
     } 
