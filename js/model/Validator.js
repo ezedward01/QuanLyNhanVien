@@ -137,6 +137,11 @@ zil 01
 zil 02
     d43i31df70966647e7af4c755aa1128ac76c8ac7a85a96b4c61da5eaadd9dea4457  (d)  (z)  (h) 
     
-                
+Yoroi 01
+    awesome congress items mean blush despair dizzy discover gravity bicycle basic doctor fearful fantasy acoustic  (i)  (a)  (b)
+Yoroi 02
+    pattern predict bezel pave plate solve kit pumpkin legend ahead disorder enough operas science kitten  (d)  (o)  (m)
+Yorol air
+    file ecology pigeons neglect invite client canoe trim eteral measure pelican must grimy mule vehicle  (p)  (b)  (s)
 }
 
