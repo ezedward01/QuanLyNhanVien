@@ -75,3 +75,6 @@ office ethics more south drill motor rival ice impose main remind timber  (r)  (
 
 Plug
 fancy scrap jar cargo hybrid inner total own tomorrow illness push flat  
+
+Stoic
+royal still dorm boring aim know ribbon sorry asset rebuke flag aware  (r)  (b)  (a)
