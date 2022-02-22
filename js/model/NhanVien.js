@@ -71,7 +71,7 @@ dot 03
 office ethics more south drill motor rival ice impose main remind timber  (r)  (o)  (j)
 
 Plug
-fancy scrap jar cargo hybrid inner total own tomorrow illness push flat  
+fancy scrap bottle cargo hybrid inner total own tomorrow malaga push flat  (j)  (i)  (g)
 
 Stoic
 royal still dorm boring aim know ribbon sorry asset rebuke flag aware  (r)  (b)  (a)
