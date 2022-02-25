@@ -75,3 +75,6 @@ fancy scrap bottle cargo hybrid inner total own tomorrow malaga push flat  (j)  
 
 Stoic
 royal still dorm boring aim know ribbon sorry asset rebuke flag aware  (r)  (b)  (a)
+
+Rose
+utility unfair heroes strong rain walnut sausage defy web book verb meat wink once sausage obtain spatial kick prize evoke vital process figure outside  (h)  (r)  (a)
