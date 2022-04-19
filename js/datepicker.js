@@ -21,7 +21,8 @@ Phantom 03
 zEKnKWVdvDv9nRTfTN4SnKBpnx1ZoXfj78ay9xVngsQUsPqmBrgQapcpJ4oGY8aM8ygFHaiFPy2YEjiyitLjKrgcgsX   (c) (n) (k) 
 Phantom
 5DFFaw8MY3RnByciUKw6nQ2byEFx9wHzq2WbnQG3Eoptr2zcG5tm17VC9Z7uP6gsU1ZMHNm5YJmGiYGvfXUVNKY3YgR  (a) (m) (c)
-
+Sub wallet
+habit tank bearing corn night vibrant obey resist appear purpose beef egg  (w)  (a)  (t) 
 // Lay ngay mac dinh
 $( document ).ready(function() {
     var d = new Date();
