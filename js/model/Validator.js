@@ -144,4 +144,5 @@ Yoroi 02
 Yorol air
     file ecology pigeons neglect invite client canoe trim eteral measure pelican must grimy mule vehicle  (p)  (b)  (s)
 }
-
+Aptos martian
+orbit speed purge glad hill small where ozone repair finish affair tuition  (d)  (e)  (a)
